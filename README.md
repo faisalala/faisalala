@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisalala" alt="faisalala" /></a> </p>
 
-- 🤝 I’m looking for help with **C++ & C#**
-
 - 👨‍💻 All of my projects are available at [https://github.com/faisalala](https://github.com/faisalala)
 
 - 📫 How to reach me **https://t.me/faisalfahad0**
